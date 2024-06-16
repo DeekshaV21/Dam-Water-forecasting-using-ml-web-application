@@ -12,10 +12,10 @@ This is a Flask web application that uses the Prophet library for time series fo
 ## Installation
 
 1. Clone the repository:
-'git clone https://github.com/sucvijay/Dam-Water-Level-Forecast-Web-App-using-ML-and-Flask.git'
+'git clone https://github.com/DeekshaV21/Dam-Water-forecasting-using-ml-web-application'
 
 2. Navigate to the project directory:
-'cd dam-water-level-forecast'
+'cd ' to the folder
 
 3. Install the required dependencies:
 'pip install -r requirements.txt'
